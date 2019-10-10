@@ -1,4 +1,5 @@
 # See https://help.github.com/ignore-files/ for more about ignoring files.
+/src/components/firebase.js
 
 # dependencies
 /node_modules
@@ -21,5 +22,3 @@ yarn-debug.log*
 yarn-error.log*
 
 
-# firebase
-firebase
